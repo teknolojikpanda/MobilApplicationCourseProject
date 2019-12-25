@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Music APP</string>
+    <string name="signin">Signin</string>
+    <string name="signup">Signup</string>
+    <string name="cyprus_international_university">cyprus international university</string>
+    <string name="uluslararas_k_br_s_niversitesi">uluslararası kıbrıs üniversitesi</string>
+    <string name="ciu_logo">ciu logo</string>
+    <string name="email_Signin">Email</string>
+    <string name="password_signin">Password</string>
+    <string name="btn_signin">Sign in</string>
+    <string name="img_signin">img_signin</string>
+    <string name="password_signiup">Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="btn_signup">Sign up</string>
+    <string name="emai_signup">Email</string>
+    <string name="img_signup">img_signup</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="IP">192.168.43.189</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_nav">NavActivity</string>
+
+</resources>
